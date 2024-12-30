@@ -5,15 +5,15 @@
     "orientation": "portrait-primary",
     "background_color": "red",
     "theme_color": "green",
-    "start_url": "/index.html",
+    "start_url": "/pwa1/index.html",
     "icons": [
         {
-            "src": "/images/icons/google128x128.png",
+            "src": "/pwa1/images/icons/google128x128.png",
             "sizes": "128x128",
             "type": "image/png"
         },
         {
-            "src": "/images/icons/google256x256.png",
+            "src": "/pwa1/images/icons/google256x256.png",
             "sizes": "256x256",
             "type": "image/png"
         }
