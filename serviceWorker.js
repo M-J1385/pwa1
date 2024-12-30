@@ -1,14 +1,14 @@
 const mycache = "mycache-v1";
 const urltocache = [
-  "/index.html",
-  "/css/style.css",
-  "/js/app.js",
-  "/images/coffee1.jpg",
-  "/images/coffee2.jpg",
-  "/images/coffee3.jpg",
-  "/images/coffee4.jpg",
-  "/images/coffee5.jpg",
-  "/images/coffee6.jpg",
+  "/pwa1/index.html",
+  "/pwa1/css/style.css",
+  "/pwa1/js/app.js",
+  "/pwa1/images/coffee1.jpg",
+  "/pwa1/images/coffee2.jpg",
+  "/pwa1/images/coffee3.jpg",
+  "/pwa1/images/coffee4.jpg",
+  "/pwa1/images/coffee5.jpg",
+  "/pwa1/images/coffee6.jpg",
 ];
 
 self.addEventListener("install", (installevent) => {
