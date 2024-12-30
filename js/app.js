@@ -1,4 +1,4 @@
-if ("serviceWorker" in navigator) {
+if (serviceWorker in navigator) {
   navigator.serviceWorker
     .register("/pwa1/serviceWorker.js")
     .then((result) => {
